@@ -75,3 +75,5 @@ if (cuentaneg > 0)
     promedio = sumitaneg / cuentaneg;
 }
 Console.WriteLine("numero leido, el promedio de errores es: " + promedio);
+a
+    asdsfsdf
