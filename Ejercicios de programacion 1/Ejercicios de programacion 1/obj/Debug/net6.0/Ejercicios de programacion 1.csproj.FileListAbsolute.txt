@@ -1,0 +1,15 @@
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.csproj.AssemblyReference.cache
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.AssemblyInfoInputs.cache
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.AssemblyInfo.cs
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.csproj.CoreCompileInputs.cache
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\bin\Debug\net6.0\Ejercicios de programacion 1.exe
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\bin\Debug\net6.0\Ejercicios de programacion 1.deps.json
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\bin\Debug\net6.0\Ejercicios de programacion 1.runtimeconfig.json
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\bin\Debug\net6.0\Ejercicios de programacion 1.dll
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\bin\Debug\net6.0\Ejercicios de programacion 1.pdb
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.dll
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\refint\Ejercicios de programacion 1.dll
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.pdb
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\Ejercicios de programacion 1.genruntimeconfig.cache
+C:\Users\lesca\source\repos\Ejercicios de programacion 1\Ejercicios de programacion 1\obj\Debug\net6.0\ref\Ejercicios de programacion 1.dll
